@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+mysql-connector-python
+langchain
+langchain-community
+langchain-openai
+streamlit
+plotly
