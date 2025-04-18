@@ -3,6 +3,7 @@ venv/
 env/
 .venv/
 finquery-env/
+finQ-env/
 
 # Python byte-compiled files
 __pycache__/
